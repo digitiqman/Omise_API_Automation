@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/hamcrest-junit-2.0.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/hamcrest-junit-2.0.0.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/hamcrest-junit-2.0.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/jackson-core-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/jackson-coreutils-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/jackson-databind-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/jopt-simple-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/json-path-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/json-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/json-path-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/json-schema-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/json-schema-validator-2.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/json-schema-validator-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/json-schema-validator-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/json-schema-validator-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/json-simple-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/libphonenumber-6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-common-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-common-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rhino-1.7R4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/scala-library-2.11.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/scala-support-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/spring-mock-mvc-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/spring-test-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/spring-web-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/spring-webmvc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/xml-path-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/xml-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/xml-path-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/rest-assured-3.1.1-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/docs/json-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/docs/json-path-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/docs/rest-assured-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/docs/rest-assured-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/docs/rest-assured-common-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/docs/rest-assured-common-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/docs/xml-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DiGiT/Desktop/Rest-Assured Libraries/docs/xml-path-3.1.1-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
