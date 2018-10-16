@@ -67,13 +67,6 @@ public class MerchantAPITests {
 			Assert.assertEquals(responseheadervalue /* actual value */, AccountResponseHeaderMap.get(key) /* expected value */);
 	    }
 
-		//Iterate over all the Headers and check if the
-		//Header values are present as expected
-		/*for(Header header : allHeaders)
-		{
-
-			System.out.println("Key: " + header.getName() + " Value: " + header.getValue());
-		}*/
 
 	}
 
