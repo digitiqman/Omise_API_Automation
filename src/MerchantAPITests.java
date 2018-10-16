@@ -18,7 +18,7 @@ import io.restassured.specification.RequestSpecification;
 public class MerchantAPITests {
 
 	public static String baseURI = "https://api.omise.co";
-	private static String secret_key = "skey_test_5dlu5w8vnwo1m5ck6jy:";
+	private static String secret_key = "skey_test_5dlu5wqq8vnwo1m5ck6jyqq:";
 
 	private static final Map<String, String> AccountResponseHeaderMap;
     static {
