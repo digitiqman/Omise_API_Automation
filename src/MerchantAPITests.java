@@ -1,9 +1,9 @@
-//import org.apache.commons.codec.binary.Base64;
 import java.util.Base64;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import io.restassured.RestAssured;
@@ -18,7 +18,7 @@ import io.restassured.specification.RequestSpecification;
 public class MerchantAPITests {
 
 	public static String baseURI = "https://api.omise.co";
-	private static String secret_key = "skey_test_q5dlu5w8vqnwo1m5ck6jyq:";
+	private static String secret_key = "skey_test_5dlu5w8vnwo1m5ck6jy:";
 
 	private static final Map<String, String> AccountResponseHeaderMap;
     static {
@@ -28,6 +28,7 @@ public class MerchantAPITests {
         ExpectedAccountResponseHeader.put("Server", "nginx");
         AccountResponseHeaderMap = Collections.unmodifiableMap(ExpectedAccountResponseHeader);
     }
+
 	@Test
 	//Positive and Negative Test for Account Authentication
 	public void AccountVerificationTest() {
@@ -56,13 +57,23 @@ public class MerchantAPITests {
 
 		//Extract all the response header.
 		Headers allHeaders = response.headers();
+		allHeaders.hasHeaderWithName("asa");
+		allHeaders.get("qwqwe");
+
+		//Validate the received response header against the expected response header
+		String responseheadervalue;
+		for (String key : AccountResponseHeaderMap.keySet()){
+			responseheadervalue = response.header(key);
+			Assert.assertEquals(responseheadervalue /* actual value */, AccountResponseHeaderMap.get(key) /* expected value */);
+	    }
 
 		//Iterate over all the Headers and check if the
 		//Header values are present as expected
-		for(Header header : allHeaders)
+		/*for(Header header : allHeaders)
 		{
+
 			System.out.println("Key: " + header.getName() + " Value: " + header.getValue());
-		}
+		}*/
 
 	}
 
